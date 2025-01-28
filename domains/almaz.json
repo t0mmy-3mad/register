@@ -4,10 +4,10 @@
         "email": "almazgamer228@gmail.com"
     },
     "record": {
-        "A": [
-            "109.71.252.37"
+        "MX": [
+            "mx1.improvmx.com",
+            "mx2.improvmx.com"
         ],
-        "MX": ["mail.is-a.dev"],
-        "TXT": "v=spf1 mx a:mail.is-a.dev ~all"
+        "TXT": "v=spf1 include:spf.improvmx.com ~all"
     }
 }
